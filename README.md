@@ -10,7 +10,7 @@ Crawl a whole classroom, package it into a single file, and share it with a link
 </p>
 
 <p>
-<a href="https://grloper.github.io/classroom-downloader/"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-Open_the_app-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<a href="https://grloper.github.io/classroom-downloader-scraper//"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-Open_the_app-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
 &nbsp;
 <a href="docs/web-app-guide.md"><img src="https://img.shields.io/badge/%F0%9F%93%98_Read_the-Guide-1f2937?style=for-the-badge" alt="Guide"></a>
 </p>
@@ -27,7 +27,7 @@ Crawl a whole classroom, package it into a single file, and share it with a link
 
 <p><sub>Created &amp; maintained by <a href="https://github.com/grloper"><b>@grloper</b></a></sub></p>
 
-<sub><a href="https://grloper.github.io/classroom-downloader/">Live&nbsp;Demo</a> · <a href="docs/web-app-guide.md">User&nbsp;Guide</a> · <a href="docs/refactor-strategy.md">Architecture</a> · <a href="https://github.com/grloper/classroom-downloader/issues/new">Report&nbsp;Bug</a> · <a href="https://github.com/grloper/classroom-downloader/issues/new">Request&nbsp;Feature</a> · <a href="https://github.com/grloper">@grloper</a></sub>
+<sub><a href="https://grloper.github.io/classroom-downloader-scraper//">Live&nbsp;Demo</a> · <a href="docs/web-app-guide.md">User&nbsp;Guide</a> · <a href="docs/refactor-strategy.md">Architecture</a> · <a href="https://github.com/grloper/classroom-downloader/issues/new">Report&nbsp;Bug</a> · <a href="https://github.com/grloper/classroom-downloader/issues/new">Request&nbsp;Feature</a> · <a href="https://github.com/grloper">@grloper</a></sub>
 
 </div>
 
@@ -59,7 +59,7 @@ Google Classroom is where your coursework lives — until the term ends, access 
 
 ## 🚀 Quick start
 
-**Just want to look around?** → **[Open the live demo](https://grloper.github.io/classroom-downloader/)** and click **"View live demo."** That's it.
+**Just want to look around?** → **[Open the live demo](https://grloper.github.io/classroom-downloader-scraper//)** and click **"View live demo."** That's it.
 
 **Archive your own Classroom** (in the browser):
 
